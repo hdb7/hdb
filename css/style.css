@@ -1,0 +1,14 @@
+body {
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+    padding: 10px;
+    font-family: 'Libre Baskerville';
+    font-size: 13px;
+}
+h2, .footer {
+    clear: both;
+}
+h1{color: black;text-align: center;}
+ul { padding-left:30px; }
+li { margin-top:3px; margin-bottom:0; }
